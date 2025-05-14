@@ -1,1 +1,1 @@
-print("✅ Hello from Conda Python environment! deployyeeddd")
+print("✅ Hello from Conda Python environment!")
